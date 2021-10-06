@@ -7,7 +7,7 @@ The Backend folder contains the code of the project written in NodeJS, it is an 
 The requirements for the code to work are:
 - To have MySQL installed.
 - Create a schema called "testdb".
-- 
+
 You can access the API in your browser through the url: "http://localhost:8000/api".
 
 You can also test your methods using the Postman collection from the file: "Relief Collection.postman_collection.json".
