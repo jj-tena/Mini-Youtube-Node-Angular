@@ -1,0 +1,4 @@
+<searchBar (emitJSON)='inspectJSON($event)'></searchBar>
+<videoView [embedLink]='embedLinkForVideoView' [title]='titleForVideoView' (emitTitle)='addBookmark($event)'></videoView>
+<History [history]='historyList' (emitEmbedLink)='changeVideoFromHistory($event)'></History>
+<Bookmarks [bookmarks]='bookmarkList'></Bookmarks>
