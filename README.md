@@ -1,4 +1,4 @@
-# Mini Youtube
+# MiniYoutube
 
 ## Concept
 
